@@ -44,35 +44,35 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- <img width="1180" height="582" alt="kvl_circuit" src="https://github.com/user-attachments/assets/c94718ca-3aec-49b4-9981-d2075749c80b" />
+<img width="1128" height="687" alt="kvl" src="https://github.com/user-attachments/assets/53b59224-6b0d-4a06-a22f-2046924c39b5" />
 
+<img width="1117" height="621" alt="kvl_run" src="https://github.com/user-attachments/assets/8b4d9992-0a46-46ed-b460-418ff7c4cd11" />
 
 
 b.  KCL:
- <img width="1116" height="568" alt="kcl_circuit" src="https://github.com/user-attachments/assets/9562a098-4fc3-4171-b70a-256f43d57b3a" />
+<img width="1093" height="661" alt="kcl" src="https://github.com/user-attachments/assets/bb7c3e78-8704-4b21-bda4-38b662ca24b3" />
+<img width="1115" height="687" alt="kcl_run" src="https://github.com/user-attachments/assets/9c8cb0ac-c8c4-4c97-9c78-09135b75c733" />
 
 
 Calculation:
 
 a.   KVL:
- <img width="812" height="1280" alt="KVL" src="https://github.com/user-attachments/assets/e08ed9d0-1657-43f1-8698-154cf740b5bf" />
+<img width="683" height="1600" alt="kvl_cal" src="https://github.com/user-attachments/assets/46bbaf90-0dd7-4b85-8ef9-5d2bb1178ceb" />
 
 
 
 b.  KCL:
-
-<img width="740" height="1280" alt="KCL" src="https://github.com/user-attachments/assets/44d02e48-95d1-43d4-9aac-c6b624f50298" />
-
+<img width="1036" height="1450" alt="kcl_cal" src="https://github.com/user-attachments/assets/d960a636-5dbb-4dd9-b4f3-97d3bcbc4cd8" />
 
 
 Tabulation:
 
 a.   KVL:
- <img width="529" height="1280" alt="kvl-tabulatipn" src="https://github.com/user-attachments/assets/80242d52-68b0-46b1-b694-f60b5ba15107" />
+<img width="1600" height="1168" alt="kvl_tab" src="https://github.com/user-attachments/assets/f9910e3a-bb70-40ee-bdc1-1821ea1e9d23" />
 
 
 b.  KCL:
-<img width="657" height="1280" alt="kcl-tabulation" src="https://github.com/user-attachments/assets/061b30c5-fdcb-4831-a3e7-bd40e6efbe6a" />
+<img width="1600" height="1168" alt="kcl_tab" src="https://github.com/user-attachments/assets/19e56f60-97e8-4ad4-b64e-692097d498b2" />
 
 
 RESULT:
